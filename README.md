@@ -7,7 +7,7 @@ mediante machine learning, aplicando la metodología CRISP-DM
 e integrando web scraping como fuente de datos complementaria.
 
 ## 👥 Equipo
-Alba Sanchez Diego
+Alba Sanchez Diego //
 Hidalgo Montes de Oca Cinthia
 Pamela Joselyn
 ## 🔧 Tecnologías
